@@ -7,7 +7,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/EXPLORE-SCHOLARSPHERE-7C3AED?style=for-the-badge&labelColor=0B1020)](https://scholar-sphere-beta.vercel.app/)
-[![Email](https://img.shields.io/badge/LET'S-TALK-EMAIL-06B6D4?style=for-the-badge&labelColor=0B1020)](mailto:aayush.goel2026@vitstudent.ac.in)
+[![Email](https://img.shields.io/badge/CONNECT-EMAIL-06B6D4?style=for-the-badge&labelColor=0B1020)](mailto:aayush.goel2026@vitstudent.ac.in)
 [![GitHub](https://img.shields.io/badge/FOLLOW-@AAYUSHGOEL1607-F472B6?style=for-the-badge&labelColor=0B1020)](https://github.com/aayushgoel1607)
 
 <sub>BUILDING AT THE INTERSECTION OF <b>LEARNING × PLAY × PRODUCT ENGINEERING</b></sub>
@@ -36,7 +36,7 @@ building_with  Next.js · TypeScript · Supabase · React
 
 ## ✦ Flagship project
 
-<a href="https://github.com/aayushgoel1607/-ScholarSphere">
+<a href="https://scholar-sphere-beta.vercel.app/">
   <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/scholarsphere.svg" width="100%" alt="ScholarSphere — learn through play, plan through focus" />
 </a>
 
@@ -72,7 +72,7 @@ Move from intention to action with a persistent focus timer, quest-board plannin
 <div align="center">
 
 [![Open live app](https://img.shields.io/badge/OPEN_LIVE_APP-→-7C3AED?style=for-the-badge&labelColor=17112B)](https://scholar-sphere-beta.vercel.app/)
-[![View source](https://img.shields.io/badge/VIEW_SOURCE-→-06B6D4?style=for-the-badge&labelColor=071B27)](https://github.com/aayushgoel1607/-ScholarSphere)
+[![Product map](https://img.shields.io/badge/PRODUCT_MAP-↓-06B6D4?style=for-the-badge&labelColor=071B27)](#-inside-the-system)
 
 </div>
 
@@ -124,10 +124,13 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aayushgoel1607&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1&icon_color=22D3EE&ring_color=F472B6" alt="Aayush's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushgoel1607&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1" alt="Aayush's most-used public repository languages" />
+<a href="https://github.com/aayushgoel1607?tab=overview">
+  <img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/github-signal.svg" alt="Aayush's GitHub build signal" />
+</a>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayushgoel1607&bg_color=0B1020&color=A78BFA&line=22D3EE&point=F472B6&area=true&hide_border=true" alt="Aayush's GitHub contribution graph" />
+<sub>For the live contribution calendar and repository activity, open the GitHub overview below.</sub>
+
+[![Open activity](https://img.shields.io/badge/OPEN_LIVE_ACTIVITY-→-A78BFA?style=for-the-badge&labelColor=0B1020)](https://github.com/aayushgoel1607?tab=overview)
 
 </div>
 
