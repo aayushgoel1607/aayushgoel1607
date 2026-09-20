@@ -1,0 +1,18 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ScholarSphere system orbit</title><desc id="desc">Animated diagram showing Learn, Play, Focus, Progress and Protect orbiting a learner profile.</desc>
+  <defs><linearGradient id="a" x1="150" y1="40" x2="1050" y2="270"><stop stop-color="#F472B6"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><filter id="s"><feGaussianBlur stdDeviation="10"/></filter></defs>
+  <rect width="1200" height="310" rx="22" fill="#0B1020"/><path d="M80 155H1120" stroke="#1E293B" stroke-dasharray="2 12"/>
+  <ellipse cx="600" cy="155" rx="365" ry="102" stroke="url(#a)" stroke-opacity=".25" stroke-dasharray="5 10"><animateTransform attributeName="transform" type="rotate" from="0 600 155" to="360 600 155" dur="45s" repeatCount="indefinite"/></ellipse>
+  <path d="M170 155C300 40 900 40 1030 155C900 270 300 270 170 155Z" stroke="url(#a)" stroke-width="2" stroke-dasharray="10 13"><animate attributeName="stroke-dashoffset" values="46;0" dur="3s" repeatCount="indefinite"/></path>
+  <circle cx="600" cy="155" r="80" fill="#7C3AED" opacity=".16" filter="url(#s)"><animate attributeName="r" values="68;88;68" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="600" cy="155" r="60" fill="#11162B" stroke="url(#a)" stroke-width="3"/>
+  <g font-family="Inter, ui-sans-serif, system-ui" text-anchor="middle">
+    <text x="600" y="149" fill="#C4B5FD" font-size="12" letter-spacing="2">LEARNER</text><text x="600" y="175" fill="#FFF" font-size="19" font-weight="700">PROFILE</text>
+    <g><rect x="90" y="119" width="160" height="72" rx="16" fill="#17132A" stroke="#F472B6" stroke-opacity=".6"/><text x="170" y="148" fill="#F9A8D4" font-size="12" letter-spacing="2">INGEST</text><text x="170" y="173" fill="#FFF" font-size="18" font-weight="700">LEARN</text></g>
+    <g><rect x="300" y="28" width="160" height="72" rx="16" fill="#17132A" stroke="#C084FC" stroke-opacity=".6"/><text x="380" y="57" fill="#D8B4FE" font-size="12" letter-spacing="2">ADAPT</text><text x="380" y="82" fill="#FFF" font-size="18" font-weight="700">PLAY</text></g>
+    <g><rect x="740" y="28" width="160" height="72" rx="16" fill="#101A2A" stroke="#818CF8" stroke-opacity=".6"/><text x="820" y="57" fill="#A5B4FC" font-size="12" letter-spacing="2">PLAN</text><text x="820" y="82" fill="#FFF" font-size="18" font-weight="700">FOCUS</text></g>
+    <g><rect x="950" y="119" width="160" height="72" rx="16" fill="#09212A" stroke="#22D3EE" stroke-opacity=".6"/><text x="1030" y="148" fill="#67E8F9" font-size="12" letter-spacing="2">REMEMBER</text><text x="1030" y="173" fill="#FFF" font-size="18" font-weight="700">PROGRESS</text></g>
+    <g><rect x="520" y="230" width="160" height="56" rx="16" fill="#101B28" stroke="#34D399" stroke-opacity=".55"/><text x="600" y="251" fill="#6EE7B7" font-size="10" letter-spacing="2">SECURE</text><text x="600" y="273" fill="#FFF" font-size="16" font-weight="700">PROTECT</text></g>
+  </g>
+  <g fill="#FFF"><circle cx="275" cy="81" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="925" cy="238" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2.6s" repeatCount="indefinite"/></circle></g>
+</svg>
