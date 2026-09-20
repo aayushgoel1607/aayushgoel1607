@@ -7,7 +7,6 @@
 <br/>
 
 [![Projects](https://img.shields.io/badge/OPEN-BUILD_ATLAS-F6BD60?style=for-the-badge&labelColor=071019)](#-build-atlas)
-[![Email](https://img.shields.io/badge/CONNECT-EMAIL-84DCC6?style=for-the-badge&labelColor=071019)](mailto:aayush.goel2026@vitstudent.ac.in)
 [![GitHub](https://img.shields.io/badge/FOLLOW-@AAYUSHGOEL1607-4EA8DE?style=for-the-badge&labelColor=071019)](https://github.com/aayushgoel1607)
 
 <sub>FULL-STACK ENGINEERING · INTELLIGENT SYSTEMS · PRODUCT EXPERIENCES</sub>
@@ -233,7 +232,7 @@ boundary       anonymized deterministic demo · clinician review required
 ## ◫ Shipping rhythm
 
 <a href="https://github.com/aayushgoel1607?tab=overview">
-  <img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/github-activity.svg?v=2" alt="Aayush's themed GitHub activity snapshot" />
+  <img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/shipping-rhythm.svg" alt="Aayush's GitHub shipping rhythm" />
 </a>
 
 <div align="center">
@@ -244,11 +243,11 @@ boundary       anonymized deterministic demo · clinician review required
 
 ## ↗ Connect
 
-If you’re building something around **education, agent systems, explainable AI, or thoughtful product engineering**, I’d love to hear about it.
+Explore my repositories if you’re working around **education, agent systems, explainable AI, or thoughtful product engineering**.
 
 <div align="center">
 
-[![Email Aayush](https://img.shields.io/badge/aayush.goel2026%40vitstudent.ac.in-EMAIL_ME-F6BD60?style=for-the-badge&labelColor=071019)](mailto:aayush.goel2026@vitstudent.ac.in)
+[![Explore repositories](https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-F6BD60?style=for-the-badge&labelColor=071019)](https://github.com/aayushgoel1607?tab=repositories)
 
 <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/footer-wave.svg?v=2" width="100%" alt="Animated gradient footer" />
 
