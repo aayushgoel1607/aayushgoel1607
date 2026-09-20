@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/aayushgoel1607">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/hero.svg" width="100%" alt="Aayush Goel — full-stack builder working across learning systems, AI platforms and product engineering" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/hero.svg?v=2" width="100%" alt="Aayush Goel — full-stack builder working across learning systems, AI platforms and product engineering" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@ I’m **Aayush Goel**, a developer building connected products across full-stack
 My work ranges from a two-mode learning platform, to shared intelligence for human–AI engineering teams, to explainable multi-agent financial research. In team repositories, the sections below distinguish the wider product from my documented contributions.
 
 <a href="#-build-atlas">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/aayush-core.svg" width="100%" alt="Animated visual model of Aayush's engineering interests: full stack, intelligent systems, product UX, and secure data" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/aayush-core.svg?v=2" width="100%" alt="Animated visual model of Aayush's engineering interests: full stack, intelligent systems, product UX, and secure data" />
 </a>
 
 <div align="center">
@@ -33,7 +33,7 @@ My work ranges from a two-mode learning platform, to shared intelligence for hum
 ## ✦ Build atlas
 
 <a href="#01--scholarsphere">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/project-universe.svg" width="100%" alt="Aayush's animated project universe connecting ScholarSphere, NodeFlow, FinSight-AI, Semicon image restoration and MediInsight" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/project-universe.svg?v=2" width="100%" alt="Aayush's animated build atlas connecting ScholarSphere, NodeFlow, FinSight-AI, Semicon image restoration and MediInsight" />
 </a>
 
 <div align="center">
@@ -48,7 +48,7 @@ My work ranges from a two-mode learning platform, to shared intelligence for hum
 ## 01 / ScholarSphere
 
 <a href="https://github.com/aayushgoel1607/-ScholarSphere">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/scholarsphere.svg" width="100%" alt="ScholarSphere — learn through play, plan through focus" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/scholarsphere.svg?v=2" width="100%" alt="ScholarSphere — learn through play, plan through focus" />
 </a>
 
 **Personal project · Owner: `aayushgoel1607` · Next.js / TypeScript / Supabase**
@@ -108,7 +108,7 @@ ScholarSphere is a connected learning platform with two complete ways to work: *
 ## 02 / NodeFlow
 
 <a href="https://github.com/PREMBISOY/nodeflow">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/nodeflow-card.svg" width="100%" alt="NodeFlow — shared project intelligence for humans and AI agents" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/nodeflow-card.svg?v=2" width="100%" alt="NodeFlow — shared project intelligence for humans and AI agents" />
 </a>
 
 **Team project · Repository owner: `PREMBISOY` · Full-stack / platform contributor**
@@ -137,7 +137,7 @@ reliability    migrations · idempotency · integration tests · documentation
 ## 03 / FinSight-AI
 
 <a href="https://github.com/PREMBISOY/FinSight-AI">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/finsight-card.svg" width="100%" alt="FinSight-AI — explainable multi-agent financial intelligence" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/finsight-card.svg?v=2" width="100%" alt="FinSight-AI — explainable multi-agent financial intelligence" />
 </a>
 
 **Hackathon team project · Repository owner: `PREMBISOY` · AI and frontend contributor**
@@ -167,7 +167,7 @@ delivery       merge integration · deployment fixes · Railway rebuilds
 ## 04 / Semicon Image Restoration
 
 <a href="https://github.com/PREMBISOY/semicon-kla-image-restoration">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/semicon-card.svg" width="100%" alt="KLA SEMICON image restoration — residual U-Net restoration for semiconductor inspection" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/semicon-card.svg?v=2" width="100%" alt="KLA SEMICON image restoration — residual U-Net restoration for semiconductor inspection" />
 </a>
 
 **Shared hackathon repository · Repository owner: `PREMBISOY` · PyTorch / computer vision**
@@ -196,7 +196,7 @@ evidence       frozen config · checkpoint hash · per-image metrics
 ## 05 / MediInsight
 
 <a href="https://github.com/premarunkumarbisoy/MediInsight">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/mediinsight-card.svg" width="100%" alt="MediInsight — clinical intelligence over longitudinal patient records" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/mediinsight-card.svg?v=2" width="100%" alt="MediInsight — clinical intelligence over longitudinal patient records" />
 </a>
 
 **Shared prototype repository · Repository owner: `premarunkumarbisoy` · Next.js / FastAPI / Supabase**
@@ -226,14 +226,14 @@ boundary       anonymized deterministic demo · clinician review required
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/engineering-stack.svg" alt="Aayush's themed engineering stack" />
+<img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/engineering-stack.svg?v=2" alt="Aayush's themed engineering stack" />
 
 </div>
 
 ## ◫ Shipping rhythm
 
 <a href="https://github.com/aayushgoel1607?tab=overview">
-  <img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/github-activity.svg" alt="Aayush's themed GitHub activity snapshot" />
+  <img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/github-activity.svg?v=2" alt="Aayush's themed GitHub activity snapshot" />
 </a>
 
 <div align="center">
@@ -250,7 +250,7 @@ If you’re building something around **education, agent systems, explainable AI
 
 [![Email Aayush](https://img.shields.io/badge/aayush.goel2026%40vitstudent.ac.in-EMAIL_ME-F6BD60?style=for-the-badge&labelColor=071019)](mailto:aayush.goel2026@vitstudent.ac.in)
 
-<img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/footer-wave.svg" width="100%" alt="Animated gradient footer" />
+<img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/footer-wave.svg?v=2" width="100%" alt="Animated gradient footer" />
 
 <sub>BUILD DEEPLY · EXPLAIN CLEARLY · ITERATE WITH INTENT</sub>
 
