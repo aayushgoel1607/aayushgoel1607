@@ -26,20 +26,20 @@ My work ranges from a two-mode learning platform, to shared intelligence for hum
 
 <div align="center">
 
-[PROJECTS](#-project-universe) · [SCHOLARSPHERE](#01--scholarsphere) · [NODEFLOW](#02--nodeflow) · [FINSIGHT-AI](#03--finsight-ai) · [STACK](#-engineering-stack) · [CONTACT](#-connect)
+[PROJECTS](#-project-universe) · [SCHOLARSPHERE](#01--scholarsphere) · [NODEFLOW](#02--nodeflow) · [FINSIGHT-AI](#03--finsight-ai) · [SEMICON](#04--semicon-image-restoration) · [MEDIINSIGHT](#05--mediinsight) · [STACK](#-engineering-stack) · [ACTIVITY](#-github-activity)
 
 </div>
 
 ## ✦ Project universe
 
 <a href="#01--scholarsphere">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/project-universe.svg" width="100%" alt="Aayush's animated project universe connecting ScholarSphere, NodeFlow and FinSight-AI" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/project-universe.svg" width="100%" alt="Aayush's animated project universe connecting ScholarSphere, NodeFlow, FinSight-AI, Semicon image restoration and MediInsight" />
 </a>
 
 <div align="center">
 
 **OWN WORK** — [ScholarSphere](https://github.com/aayushgoel1607/-ScholarSphere)  
-**COLLABORATION** — [NodeFlow](https://github.com/PREMBISOY/nodeflow) · [FinSight-AI](https://github.com/PREMBISOY/FinSight-AI)
+**COLLABORATION** — [NodeFlow](https://github.com/PREMBISOY/nodeflow) · [FinSight-AI](https://github.com/PREMBISOY/FinSight-AI) · [Semicon](https://github.com/PREMBISOY/semicon-kla-image-restoration) · [MediInsight](https://github.com/premarunkumarbisoy/MediInsight)
 
 </div>
 
@@ -164,26 +164,83 @@ delivery       merge integration · deployment fixes · Railway rebuilds
 
 ---
 
+## 04 / Semicon Image Restoration
+
+<a href="https://github.com/PREMBISOY/semicon-kla-image-restoration">
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/semicon-card.svg" width="100%" alt="KLA SEMICON image restoration — residual U-Net restoration for semiconductor inspection" />
+</a>
+
+**Shared hackathon repository · Repository owner: `PREMBISOY` · PyTorch / computer vision**
+
+This SEMICON India Hackathon project restores degraded **128×128** grayscale inputs into **256×256** semiconductor-inspection images. Its frozen submission model is a 1.46M-parameter residual U-Net with skip connections, a pixel-shuffle 2× head, and a bicubic residual path.
+
+The repository emphasizes reproducibility rather than a single showcase image: a deterministic validation split, preserved model configuration and checkpoint hash, per-image PSNR/SSIM/LPIPS records, failure analysis, standalone inference, and measured end-to-end runtime.
+
+```text
+model          ResidualUNet2x · 1.46M parameters · pixel shuffle
+evaluation     27.7583 dB PSNR · 0.7467 SSIM · documented failures
+pipeline       raw NPY input · 2× restoration · reproducible inference
+evidence       frozen config · checkpoint hash · per-image metrics
+```
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-22D3EE?style=for-the-badge&labelColor=071B27)](https://github.com/PREMBISOY/semicon-kla-image-restoration)
+
+</div>
+
+> This is a private shared team repository. No main-branch commits are currently attributed to this GitHub account, so the profile describes the project without claiming unverified individual ownership.
+
+---
+
+## 05 / MediInsight
+
+<a href="https://github.com/premarunkumarbisoy/MediInsight">
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/mediinsight-card.svg" width="100%" alt="MediInsight — clinical intelligence over longitudinal patient records" />
+</a>
+
+**Shared prototype repository · Repository owner: `premarunkumarbisoy` · Next.js / FastAPI / Supabase**
+
+MediInsight is a clinical-intelligence layer designed to sit above hospital EHR/EMR systems without becoming the system of record. Its prototype combines a chronological patient timeline, allergy safety, medication reconciliation, lab trends, source documents, citations, and an AI clinical summary in one doctor workspace.
+
+The architecture models consent-gated data pulls, integration connections, ingestion jobs, patient matching, source-event provenance, a mock FHIR connector, and a boundary for hospital-approved FHIR endpoints.
+
+```text
+workspace      timeline · allergies · medications · labs · citations
+integration    consent gates · FHIR adapter · ingestion jobs · audit trail
+pipeline       validate · OCR · extract · normalize · retrieve · review
+boundary       anonymized deterministic demo · clinician review required
+```
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-34D399?style=for-the-badge&labelColor=071B27)](https://github.com/premarunkumarbisoy/MediInsight)
+
+</div>
+
+> MediInsight is a presentation/API prototype using anonymized demo data—not a medical device, treatment system, or source of medical advice. No main-branch commits are currently attributed to this GitHub account.
+
+---
+
 ## ⌘ Engineering stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=38BDF8)
-![Next.js](https://img.shields.io/badge/Next.js-0B1020?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=22D3EE)
-![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=FACC15)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&logo=fastapi&logoColor=34D399)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-![Supabase](https://img.shields.io/badge/Supabase-0B1020?style=for-the-badge&logo=supabase&logoColor=34D399)
-![Vercel](https://img.shields.io/badge/Vercel-0B1020?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Railway](https://img.shields.io/badge/Railway-0B1020?style=for-the-badge&logo=railway&logoColor=A78BFA)
-![Git](https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=FB7185)
+<img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/engineering-stack.svg" alt="Aayush's themed engineering stack" />
 
 </div>
 
+## ◫ GitHub activity
+
 <a href="https://github.com/aayushgoel1607?tab=overview">
-  <img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/github-signal.svg" alt="Aayush's GitHub build signal" />
+  <img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/github-activity.svg" alt="Aayush's themed GitHub activity snapshot" />
 </a>
+
+<div align="center">
+
+[![Live activity](https://img.shields.io/badge/OPEN_LIVE_GITHUB_ACTIVITY-→-22D3EE?style=for-the-badge&labelColor=071B27)](https://github.com/aayushgoel1607?tab=overview)
+
+</div>
 
 ## ↗ Connect
 
