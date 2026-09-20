@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Projects](https://img.shields.io/badge/EXPLORE-PROJECT_UNIVERSE-7C3AED?style=for-the-badge&labelColor=0B1020)](#-project-universe)
-[![Email](https://img.shields.io/badge/CONNECT-EMAIL-06B6D4?style=for-the-badge&labelColor=0B1020)](mailto:aayush.goel2026@vitstudent.ac.in)
-[![GitHub](https://img.shields.io/badge/FOLLOW-@AAYUSHGOEL1607-F472B6?style=for-the-badge&labelColor=0B1020)](https://github.com/aayushgoel1607)
+[![Projects](https://img.shields.io/badge/OPEN-BUILD_ATLAS-F6BD60?style=for-the-badge&labelColor=071019)](#-build-atlas)
+[![Email](https://img.shields.io/badge/CONNECT-EMAIL-84DCC6?style=for-the-badge&labelColor=071019)](mailto:aayush.goel2026@vitstudent.ac.in)
+[![GitHub](https://img.shields.io/badge/FOLLOW-@AAYUSHGOEL1607-4EA8DE?style=for-the-badge&labelColor=071019)](https://github.com/aayushgoel1607)
 
 <sub>FULL-STACK ENGINEERING · INTELLIGENT SYSTEMS · PRODUCT EXPERIENCES</sub>
 
@@ -20,17 +20,17 @@ I’m **Aayush Goel**, a developer building connected products across full-stack
 
 My work ranges from a two-mode learning platform, to shared intelligence for human–AI engineering teams, to explainable multi-agent financial research. In team repositories, the sections below distinguish the wider product from my documented contributions.
 
-<a href="#-project-universe">
+<a href="#-build-atlas">
   <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/aayush-core.svg" width="100%" alt="Animated visual model of Aayush's engineering interests: full stack, intelligent systems, product UX, and secure data" />
 </a>
 
 <div align="center">
 
-[PROJECTS](#-project-universe) · [SCHOLARSPHERE](#01--scholarsphere) · [NODEFLOW](#02--nodeflow) · [FINSIGHT-AI](#03--finsight-ai) · [SEMICON](#04--semicon-image-restoration) · [MEDIINSIGHT](#05--mediinsight) · [STACK](#-engineering-stack) · [ACTIVITY](#-github-activity)
+[BUILD ATLAS](#-build-atlas) · [SCHOLARSPHERE](#01--scholarsphere) · [NODEFLOW](#02--nodeflow) · [FINSIGHT-AI](#03--finsight-ai) · [SEMICON](#04--semicon-image-restoration) · [MEDIINSIGHT](#05--mediinsight) · [STACK](#-working-stack) · [RHYTHM](#-shipping-rhythm)
 
 </div>
 
-## ✦ Project universe
+## ✦ Build atlas
 
 <a href="#01--scholarsphere">
   <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/project-universe.svg" width="100%" alt="Aayush's animated project universe connecting ScholarSphere, NodeFlow, FinSight-AI, Semicon image restoration and MediInsight" />
@@ -84,8 +84,8 @@ ScholarSphere is a connected learning platform with two complete ways to work: *
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-7C3AED?style=for-the-badge&labelColor=17112B)](https://github.com/aayushgoel1607/-ScholarSphere)
-[![Live app](https://img.shields.io/badge/OPEN_LIVE_APP-→-06B6D4?style=for-the-badge&labelColor=071B27)](https://scholar-sphere-beta.vercel.app/)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-F6BD60?style=for-the-badge&labelColor=071019)](https://github.com/aayushgoel1607/-ScholarSphere)
+[![Live app](https://img.shields.io/badge/OPEN_LIVE_APP-→-84DCC6?style=for-the-badge&labelColor=071019)](https://scholar-sphere-beta.vercel.app/)
 
 </div>
 
@@ -126,9 +126,9 @@ reliability    migrations · idempotency · integration tests · documentation
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-22D3EE?style=for-the-badge&labelColor=071B27)](https://github.com/PREMBISOY/nodeflow)
-[![My commits](https://img.shields.io/badge/VIEW_MY_COMMITS-→-A78BFA?style=for-the-badge&labelColor=17112B)](https://github.com/PREMBISOY/nodeflow/commits/main/?author=aayushgoel1607)
-[![Live deployment](https://img.shields.io/badge/LIVE_DEPLOYMENT-→-34D399?style=for-the-badge&labelColor=071B27)](https://nodeflow.up.railway.app/)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-4EA8DE?style=for-the-badge&labelColor=071019)](https://github.com/PREMBISOY/nodeflow)
+[![My commits](https://img.shields.io/badge/VIEW_MY_COMMITS-→-4EA8DE?style=for-the-badge&labelColor=071019)](https://github.com/PREMBISOY/nodeflow/commits/main/?author=aayushgoel1607)
+[![Live deployment](https://img.shields.io/badge/LIVE_DEPLOYMENT-→-84DCC6?style=for-the-badge&labelColor=071019)](https://nodeflow.up.railway.app/)
 
 </div>
 
@@ -155,8 +155,8 @@ delivery       merge integration · deployment fixes · Railway rebuilds
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-F472B6?style=for-the-badge&labelColor=251022)](https://github.com/PREMBISOY/FinSight-AI)
-[![My commits](https://img.shields.io/badge/VIEW_MY_COMMITS-→-A78BFA?style=for-the-badge&labelColor=17112B)](https://github.com/PREMBISOY/FinSight-AI/commits/main/?author=aayushgoel1607)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-F28482?style=for-the-badge&labelColor=071019)](https://github.com/PREMBISOY/FinSight-AI)
+[![My commits](https://img.shields.io/badge/VIEW_MY_COMMITS-→-4EA8DE?style=for-the-badge&labelColor=071019)](https://github.com/PREMBISOY/FinSight-AI/commits/main/?author=aayushgoel1607)
 
 </div>
 
@@ -185,7 +185,7 @@ evidence       frozen config · checkpoint hash · per-image metrics
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-22D3EE?style=for-the-badge&labelColor=071B27)](https://github.com/PREMBISOY/semicon-kla-image-restoration)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-4EA8DE?style=for-the-badge&labelColor=071019)](https://github.com/PREMBISOY/semicon-kla-image-restoration)
 
 </div>
 
@@ -214,7 +214,7 @@ boundary       anonymized deterministic demo · clinician review required
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-34D399?style=for-the-badge&labelColor=071B27)](https://github.com/premarunkumarbisoy/MediInsight)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-→-84DCC6?style=for-the-badge&labelColor=071019)](https://github.com/premarunkumarbisoy/MediInsight)
 
 </div>
 
@@ -222,7 +222,7 @@ boundary       anonymized deterministic demo · clinician review required
 
 ---
 
-## ⌘ Engineering stack
+## ⌘ Working stack
 
 <div align="center">
 
@@ -230,7 +230,7 @@ boundary       anonymized deterministic demo · clinician review required
 
 </div>
 
-## ◫ GitHub activity
+## ◫ Shipping rhythm
 
 <a href="https://github.com/aayushgoel1607?tab=overview">
   <img width="100%" src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/github-activity.svg" alt="Aayush's themed GitHub activity snapshot" />
@@ -238,7 +238,7 @@ boundary       anonymized deterministic demo · clinician review required
 
 <div align="center">
 
-[![Live activity](https://img.shields.io/badge/OPEN_LIVE_GITHUB_ACTIVITY-→-22D3EE?style=for-the-badge&labelColor=071B27)](https://github.com/aayushgoel1607?tab=overview)
+[![Live activity](https://img.shields.io/badge/OPEN_LIVE_GITHUB_ACTIVITY-→-F6BD60?style=for-the-badge&labelColor=071019)](https://github.com/aayushgoel1607?tab=overview)
 
 </div>
 
@@ -248,7 +248,7 @@ If you’re building something around **education, agent systems, explainable AI
 
 <div align="center">
 
-[![Email Aayush](https://img.shields.io/badge/aayush.goel2026%40vitstudent.ac.in-EMAIL_ME-7C3AED?style=for-the-badge&labelColor=0B1020)](mailto:aayush.goel2026@vitstudent.ac.in)
+[![Email Aayush](https://img.shields.io/badge/aayush.goel2026%40vitstudent.ac.in-EMAIL_ME-F6BD60?style=for-the-badge&labelColor=071019)](mailto:aayush.goel2026@vitstudent.ac.in)
 
 <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/footer-wave.svg" width="100%" alt="Animated gradient footer" />
 

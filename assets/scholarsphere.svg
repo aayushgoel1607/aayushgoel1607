@@ -1,33 +1,33 @@
 <svg width="1200" height="350" viewBox="0 0 1200 350" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">ScholarSphere</title><desc id="desc">Animated project card connecting game learning and focus desk through a shared progress core.</desc>
   <defs>
-    <linearGradient id="b" x1="0" y1="0" x2="1200" y2="350"><stop stop-color="#15102C"/><stop offset=".52" stop-color="#0B1020"/><stop offset="1" stop-color="#06202A"/></linearGradient>
-    <linearGradient id="a" x1="260" y1="65" x2="920" y2="290"><stop stop-color="#F472B6"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="1200" y2="350"><stop stop-color="#15102C"/><stop offset=".52" stop-color="#071019"/><stop offset="1" stop-color="#06202A"/></linearGradient>
+    <linearGradient id="a" x1="260" y1="65" x2="920" y2="290"><stop stop-color="#F28482"/><stop offset=".5" stop-color="#F6BD60"/><stop offset="1" stop-color="#84DCC6"/></linearGradient>
     <filter id="g"><feGaussianBlur stdDeviation="18"/></filter>
     <pattern id="p" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#FFF" stroke-opacity=".035"/></pattern>
   </defs>
   <rect width="1200" height="350" rx="24" fill="url(#b)"/><rect width="1200" height="350" rx="24" fill="url(#p)"/>
-  <circle cx="310" cy="180" r="120" fill="#7C3AED" opacity=".1" filter="url(#g)"/><circle cx="890" cy="180" r="120" fill="#0891B2" opacity=".12" filter="url(#g)"/>
+  <circle cx="310" cy="180" r="120" fill="#4EA8DE" opacity=".1" filter="url(#g)"/><circle cx="890" cy="180" r="120" fill="#0891B2" opacity=".12" filter="url(#g)"/>
   <path d="M390 178C470 90 730 90 810 178" stroke="url(#a)" stroke-width="3" stroke-dasharray="9 12"><animate attributeName="stroke-dashoffset" values="42;0" dur="2.2s" repeatCount="indefinite"/></path>
   <path d="M390 190C475 278 725 278 810 190" stroke="url(#a)" stroke-width="3" stroke-dasharray="9 12"><animate attributeName="stroke-dashoffset" values="0;42" dur="2.2s" repeatCount="indefinite"/></path>
   <g font-family="Inter, ui-sans-serif, system-ui" text-anchor="middle">
-    <rect x="94" y="95" width="292" height="174" rx="20" fill="#18122D" stroke="#F472B6" stroke-opacity=".55"/>
-    <text x="240" y="150" fill="#F9A8D4" font-size="14" letter-spacing="3">PLAY &amp; PRACTISE</text>
+    <rect x="94" y="95" width="292" height="174" rx="20" fill="#18122D" stroke="#F28482" stroke-opacity=".55"/>
+    <text x="240" y="150" fill="#F6A6A4" font-size="14" letter-spacing="3">PLAY &amp; PRACTISE</text>
     <text x="240" y="196" fill="#FFF" font-size="29" font-weight="750">GAME LEARNING</text>
     <text x="240" y="227" fill="#94A3B8" font-size="14">adaptive · source-grounded · rewarding</text>
-    <g transform="translate(132 115)"><rect width="18" height="18" fill="#F472B6"><animate attributeName="y" values="0;-7;0" dur="1.5s" repeatCount="indefinite"/></rect><rect x="21" width="18" height="18" fill="#A78BFA"><animate attributeName="y" values="-7;0;-7" dur="1.5s" repeatCount="indefinite"/></rect></g>
-    <rect x="814" y="95" width="292" height="174" rx="20" fill="#08212B" stroke="#22D3EE" stroke-opacity=".55"/>
-    <text x="960" y="150" fill="#67E8F9" font-size="14" letter-spacing="3">PLAN &amp; FOCUS</text>
+    <g transform="translate(132 115)"><rect width="18" height="18" fill="#F28482"><animate attributeName="y" values="0;-7;0" dur="1.5s" repeatCount="indefinite"/></rect><rect x="21" width="18" height="18" fill="#F6BD60"><animate attributeName="y" values="-7;0;-7" dur="1.5s" repeatCount="indefinite"/></rect></g>
+    <rect x="814" y="95" width="292" height="174" rx="20" fill="#08212B" stroke="#84DCC6" stroke-opacity=".55"/>
+    <text x="960" y="150" fill="#A8E6D5" font-size="14" letter-spacing="3">PLAN &amp; FOCUS</text>
     <text x="960" y="196" fill="#FFF" font-size="29" font-weight="750">FOCUS DESK</text>
     <text x="960" y="227" fill="#94A3B8" font-size="14">intentional · persistent · measurable</text>
-    <circle cx="1063" cy="124" r="13" stroke="#22D3EE" stroke-width="3"/><path d="M1063 124V116M1063 124L1070 128" stroke="#22D3EE" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 1063 124" to="360 1063 124" dur="4s" repeatCount="indefinite"/></path>
-    <circle cx="600" cy="180" r="87" fill="#0B1020" stroke="url(#a)" stroke-width="3"/>
-    <circle cx="600" cy="180" r="68" stroke="#A78BFA" stroke-opacity=".3" stroke-dasharray="4 7"><animateTransform attributeName="transform" type="rotate" from="0 600 180" to="360 600 180" dur="14s" repeatCount="indefinite"/></circle>
-    <text x="600" y="169" fill="#C4B5FD" font-size="12" letter-spacing="3">ONE PROFILE</text>
+    <circle cx="1063" cy="124" r="13" stroke="#84DCC6" stroke-width="3"/><path d="M1063 124V116M1063 124L1070 128" stroke="#84DCC6" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 1063 124" to="360 1063 124" dur="4s" repeatCount="indefinite"/></path>
+    <circle cx="600" cy="180" r="87" fill="#071019" stroke="url(#a)" stroke-width="3"/>
+    <circle cx="600" cy="180" r="68" stroke="#F6BD60" stroke-opacity=".3" stroke-dasharray="4 7"><animateTransform attributeName="transform" type="rotate" from="0 600 180" to="360 600 180" dur="14s" repeatCount="indefinite"/></circle>
+    <text x="600" y="169" fill="#F9D7A0" font-size="12" letter-spacing="3">ONE PROFILE</text>
     <text x="600" y="198" fill="#FFF" font-size="21" font-weight="700">SHARED PROGRESS</text>
     <text x="600" y="220" fill="#94A3B8" font-size="11">credits · streaks · rewards</text>
     <text x="50" y="52" text-anchor="start" fill="#FFF" font-size="31" font-weight="800">SCHOLARSPHERE</text>
-    <text x="50" y="77" text-anchor="start" fill="#A78BFA" font-size="13" letter-spacing="2">A CONNECTED LEARNING WORLD</text>
+    <text x="50" y="77" text-anchor="start" fill="#F6BD60" font-size="13" letter-spacing="2">A CONNECTED LEARNING WORLD</text>
     <text x="1150" y="52" text-anchor="end" fill="#64748B" font-family="ui-monospace, monospace" font-size="12">LIVE / FULL STACK / 2026</text>
     <text x="600" y="320" fill="#64748B" font-family="ui-monospace, monospace" font-size="12" letter-spacing="2">CLICK TO OPEN THE REPOSITORY ↗</text>
   </g>
