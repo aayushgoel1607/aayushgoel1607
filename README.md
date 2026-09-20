@@ -21,7 +21,7 @@ I’m **Aayush Goel**, a developer building connected products across full-stack
 My work ranges from a two-mode learning platform, to shared intelligence for human–AI engineering teams, to explainable multi-agent financial research. In team repositories, the sections below distinguish the wider product from my documented contributions.
 
 <a href="#-build-atlas">
-  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/aayush-core.svg?v=3" width="100%" alt="Animated visual model of Aayush's engineering interests: full stack, intelligent systems, product UX, and secure data" />
+  <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/build-loop.svg" width="100%" alt="Animated visual model of Aayush's engineering interests: full stack, intelligent systems, product UX, and secure data" />
 </a>
 
 <div align="center">
