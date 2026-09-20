@@ -1,6 +1,6 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Aayush Goel — creative developer profile</title>
-  <desc id="desc">Animated dark-space banner with glowing orbits, code motifs, and Aayush Goel's introduction.</desc>
+  <title id="title">Aayush Goel — full-stack product engineer</title>
+  <desc id="desc">Animated dark-space banner introducing Aayush's work across learning platforms, agent systems, explainable AI, and product experience.</desc>
   <defs>
     <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="400" gradientUnits="userSpaceOnUse">
       <stop stop-color="#080B18"/><stop offset="0.48" stop-color="#10112A"/><stop offset="1" stop-color="#061823"/>
@@ -36,9 +36,9 @@
       <text x="101" y="79" fill="#CBD5E1" font-size="13" letter-spacing="1.8">AVAILABLE TO BUILD</text>
       <text x="65" y="153" fill="#94A3B8" font-size="18" letter-spacing="5">HELLO, WORLD — I'M</text>
       <text x="61" y="226" fill="url(#accent)" font-family="Inter, ui-sans-serif, system-ui" font-weight="800" font-size="68" letter-spacing="-2">AAYUSH GOEL</text>
-      <text x="65" y="270" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui" font-size="22">I turn ambitious ideas into playful, useful products.</text>
+      <text x="65" y="270" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui" font-size="22">I build connected systems that stay clear, useful, and human.</text>
       <text x="65" y="318" fill="#22D3EE" font-size="16">$ building</text>
-      <text x="174" y="318" fill="#CBD5E1" font-size="16">learning systems · full-stack products · delightful UX</text>
+      <text x="174" y="318" fill="#CBD5E1" font-size="16">learning platforms · agent systems · explainable AI</text>
       <rect x="65" y="344" width="520" height="2" rx="1" fill="#1E293B"/>
       <rect x="65" y="344" width="155" height="2" rx="1" fill="url(#accent)"><animate attributeName="width" values="90;520;90" dur="6s" repeatCount="indefinite"/></rect>
       <text x="65" y="382" fill="#64748B" font-size="12" letter-spacing="2">SCROLL TO ENTER THE LAB ↓</text>
