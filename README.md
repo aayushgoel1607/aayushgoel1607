@@ -36,7 +36,7 @@ building_with  Next.js · TypeScript · Supabase · React
 
 ## ✦ Flagship project
 
-<a href="https://scholar-sphere-beta.vercel.app/">
+<a href="https://github.com/aayushgoel1607/-ScholarSphere">
   <img src="https://raw.githubusercontent.com/aayushgoel1607/aayushgoel1607/main/assets/scholarsphere.svg" width="100%" alt="ScholarSphere — learn through play, plan through focus" />
 </a>
 
